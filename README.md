@@ -1,2 +1,2 @@
 # learning-pytorch
-My .IPYNB notebooks made while learning PyTorch.`
+My .IPYNB notebooks made while learning PyTorch.
